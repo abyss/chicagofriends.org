@@ -5,6 +5,7 @@ enableEmoji: true
 disableKinds:
   - taxonomy
   - term
+theme: lynx
 params:
   author:
     headline: Collection of links for Chicago Friends Meetup groups!
